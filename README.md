@@ -14,7 +14,7 @@
 欢迎提出宝贵意见和进行技术交流~
 
 * Email：530174071@qq.com
-* 技术博客：[美少女程序媛Kitty的搬砖日常](www.biwenjie.com)
+* 技术博客：[美少女程序媛Kitty的搬砖日常](http://www.biwenjie.com)
 * WeChat
 
   ![](/img/wechat.jpeg)

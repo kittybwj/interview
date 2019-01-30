@@ -1,11 +1,9 @@
 package no_37;
 
-import java.util.Arrays;
-
 /**
  * Created by kitty on 2019/1/22.
  */
-class Solution {
+class SudokuSolver {
     public char[][] temp;
     public char[][] row;
     public char[][] column;
